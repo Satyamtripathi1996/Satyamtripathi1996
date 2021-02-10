@@ -1,8 +1,5 @@
 ### Hola, I'm Satyam Tripathi!👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently search a job.
 - 🌱 I’m currently learning python-django.
 - 👯 I’m looking to collaborate a software company.
